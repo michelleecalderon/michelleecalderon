@@ -1,11 +1,11 @@
-# Hi, I'm Laura Michelle
+# Hi, Michelle 👋
 
 I build practical web projects and AI-powered workflows, with a focus on clear interfaces and useful everyday tools.
 
 ## Featured work
 
-- [Save Link to Notion](https://github.com/michelleecalderon/save-link-to-notion) — a Claude skill for saving links into a structured Notion database and finding them later by use case.
-- [Brand Guide Builder](https://github.com/michelleecalderon/brand-guide-builder) — a six-step Claude skill for creating brand guides, including accessible color checks and visual examples.
+- [Save Link to Notion](https://github.com/michelleecalderon/save-link-to-notion) — a skill for saving links into a structured Notion database and finding them later by use case.
+- [Brand Guide Builder](https://github.com/michelleecalderon/brand-guide-builder) — a six-step skill for creating brand guides, including accessible color checks and visual examples.
 
 ## Web projects
 
