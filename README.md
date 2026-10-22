@@ -6,6 +6,7 @@ I build practical web projects and AI-powered workflows, with a focus on clear i
 
 - [Save Link to Notion](https://github.com/michelleecalderon/save-link-to-notion) — a skill for saving links into a structured Notion database and finding them later by use case.
 - [Brand Guide Builder](https://github.com/michelleecalderon/brand-guide-builder) — a six-step skill for creating brand guides, including accessible color checks and visual examples.
+- [Visual Guidebook](https://github.com/michelleecalderon/visual-guidebook) — a skill to turn any topic, book or document into a beautiful, diagram-first learning PDF. 
 
 ## Web projects
 
