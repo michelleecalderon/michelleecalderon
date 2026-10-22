@@ -1,4 +1,4 @@
-# Hi, Michelle 👋
+# Hi, I'm Michelle 👋
 
 I build practical web projects and AI-powered workflows, with a focus on clear interfaces and useful everyday tools.
 
