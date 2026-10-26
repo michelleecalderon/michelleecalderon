@@ -11,7 +11,7 @@ I build practical web projects and AI-powered workflows, with a focus on clear i
 
 ## Projects
 
-- [Aura Screensaver](https://github.com/michelleecalderon/aura-screensaver) — a macOS screen saver with 16 animated gradient themes. [Interactive demo](https://michelleecalderon.github.io/aura-screensaver/) · [Free download](https://github.com/michelleecalderon/aura-screensaver/releases/latest/download/Aura-Screensaver.zip)
+- [Aura Screensaver](https://github.com/michelleecalderon/aura-screensaver) — a macOS screen saver with 16 animated gradient themes. [Interactive demo](https://michelleecalderon.github.io/aura-screensaver/) 
 - [Bookshop E-commerce](https://github.com/michelleecalderon/bookshop-e-commerce) — an online bookshop website.
 - [AluraFlix](https://github.com/michelleecalderon/aluraflix) — a streaming catalog website.
 - [Portfolio](https://github.com/michelleecalderon/Portafolio) — an earlier portfolio project.
