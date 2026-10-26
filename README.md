@@ -9,8 +9,9 @@ I build practical web projects and AI-powered workflows, with a focus on clear i
 - [Visual Guidebook](https://github.com/michelleecalderon/visual-guidebook) — a skill to turn any topic, book or document into a beautiful, diagram-first learning PDF.
 - [Ebook Metadata](https://github.com/michelleecalderon/ebook-metadata) — a skill for editing ebook metadata and covers, and researching missing book details.
 
-## Web projects
+## Projects
 
+- [Aura Screensaver](https://github.com/michelleecalderon/aura-screensaver) — a macOS screen saver with 16 animated gradient themes. [Interactive demo](https://michelleecalderon.github.io/aura-screensaver/) · [Free download](https://github.com/michelleecalderon/aura-screensaver/releases/latest/download/Aura-Screensaver.zip)
 - [Bookshop E-commerce](https://github.com/michelleecalderon/bookshop-e-commerce) — an online bookshop website.
 - [AluraFlix](https://github.com/michelleecalderon/aluraflix) — a streaming catalog website.
 - [Portfolio](https://github.com/michelleecalderon/Portafolio) — an earlier portfolio project.
