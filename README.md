@@ -8,6 +8,8 @@ I build practical web projects and AI-powered workflows, with a focus on clear i
 - [Brand Guide Builder](https://github.com/michelleecalderon/brand-guide-builder) — a six-step skill for creating brand guides, including accessible color checks and visual examples.
 - [Visual Guidebook](https://github.com/michelleecalderon/visual-guidebook) — a skill to turn any topic, book or document into a beautiful, diagram-first learning PDF.
 - [Ebook Metadata](https://github.com/michelleecalderon/ebook-metadata) — a skill for editing ebook metadata and covers, and researching missing book details.
+- - [Interface Polish](https://github.com/michelleecalderon/interface-polish) — a skill for refining interface details, motion, and WCAG accessibility.
+  
 
 ## Projects
 
