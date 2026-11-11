@@ -9,7 +9,7 @@ I build practical web projects and AI-powered workflows, with a focus on clear i
 - [Visual Guidebook](https://github.com/michelleecalderon/visual-guidebook) — a skill to turn any topic, book or document into a beautiful, diagram-first learning PDF.
 - [Ebook Metadata](https://github.com/michelleecalderon/ebook-metadata) — a skill for editing ebook metadata and covers, and researching missing book details.
 - [Interface Polish](https://github.com/michelleecalderon/interface-polish) — a skill for refining interface details, motion, and WCAG accessibility.
-  
+- [Anti slop UI Review ](https://github.com/michelleecalderon/anti-slop-review) — a skill that audits UIs for generic, product-agnostic design, then writes redesign directions or implements one.
 
 ## Projects
 
